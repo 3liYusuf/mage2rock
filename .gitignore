@@ -1,7 +1,7 @@
 #--------------------------#
 # Magento Default Files    #
 #--------------------------#
-/vendor
+vendor/
 /PATCH_*.sh
 
 /app/etc/local.xml
